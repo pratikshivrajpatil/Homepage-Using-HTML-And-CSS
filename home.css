@@ -1,0 +1,130 @@
+.imageContainer{
+  
+    background: url('https://i.postimg.cc/76kStDSv/food-wallpaper.png');
+    
+    border-style: solid;
+    border-color: white;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+
+
+#logo{
+    
+   text-align: center;
+    color:red;
+    font-weight: bold;
+    font-size: 90px;
+    background-color:pink;
+    height:110px;
+    width:110px;
+    margin:auto;
+    margin:auto;
+    border-radius:60px;
+    margin-bottom:30px;
+    margin-top:80px;
+       
+}
+#Title
+{
+    
+    text-align:center;
+    font-size:30;
+    border-radius:30%;
+    color:white;
+   
+}
+#search
+{
+    
+    text-align:center;
+    font-family:sans-sarif;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    
+}
+
+ #input2{
+     
+    border: none;
+    width:290px;
+    height:36px;
+    border-radius:17px;
+    font-size: 14px;
+    margin-left:15px;
+    border:2px solid #192F60;
+    background:url('https://img.icons8.com/material-rounded/24/000000/search.png')left no-repeat;
+    background-color:white;
+    padding-left:19px;
+}
+ #input1{
+     
+    border: none;
+    width:150px;
+    border:2px solid #192F60;
+    height:36px;
+    border-radius:17px;
+    font-size: 12px;
+    margin-left:15px
+}
+ 
+  #quickhead{
+        
+      text-align:center;
+      font-size:26;
+      line-height:0.6;
+      color: #192f60;
+      font-weight: bold;
+      
+  }
+    #quickhead2{
+      
+      text-align:center;
+      font-size:16;
+      line-height:0.01;
+      color: #192f60;
+      font-weight: bold;
+      
+  } 
+  .tileComponent1{
+      
+     width:50%;
+    float: left;
+}
+.tileComponent2{
+    width:50%;
+    float: left;
+    margin-top: 18px;
+}
+
+  .tilecontainer{
+      
+       width:417px;
+       height: 147px;
+       box-shadow: 0 3px 6px black;
+       
+
+    border:2px solid #192F60;
+
+       margin-top:20px;
+       margin-left:20px;
+      
+       display:inline-block;
+  }
+.componentHeading
+{
+    float:left;
+     font-weight: bold;
+    font-size:21;
+    margin-left:24px;
+    margin-top:20px;
+    color:blue;
+     display:inline-block;
+}
+
+.componentSubHeading
+{
+    float:left;
+}
